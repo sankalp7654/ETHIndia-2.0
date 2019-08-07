@@ -9,3 +9,5 @@ Install dependencies
 
 ### Run 
 `npm run dev`
+
+Also download the Metamask extension from the chrome and get some free Ropsten Ethereum faucet in the metamask wallet in order to do the transactions on the Ropsten test net ethereum block chain.
