@@ -6,11 +6,11 @@ Install dependencies
 
 `npm install`
 
-#### Follow instructions to complete the smart contract code.
+### Follow instructions to complete the smart contract code.
 
 Run ethereum blockchain locally
 
 `npm run test:ethereum`
 
-#### Run tests
+### Run tests
 `npm test`
