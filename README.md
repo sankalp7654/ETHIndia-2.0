@@ -1,5 +1,5 @@
 # Real Estate Land Tokenizer - ETHIndia 2.0
-This application was developed in ETHIndia 2.0 hackathon in 36 hours.
+This application was developed at ETHIndia 2.0 hackathon in 36 hours.
 
 ### Setup
 
